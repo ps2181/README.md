@@ -1,5 +1,5 @@
 # README.md
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm PRITAM SATPATHY!
 
 Welcome to my GitHub profile! I am passionate about **coding, cybersecurity, AI, ML, cloud computing, and generative AI**. Here's a little more about me:
 
@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I am passionate about **coding, cybersecurity, AI,
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ps2181&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ps2181&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ps2181&theme=radical)
 
 ---
 
@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I am passionate about **coding, cybersecurity, AI,
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/pritam-satpathy-9a8aa4244/])
+- Email: [your.email@example.com](hellopritam31@gmail.com)
 
 ---
 
